@@ -1,2 +1,2 @@
 # Html-portfolio
-just a simple project
+just a simple project contains about me
